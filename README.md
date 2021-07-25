@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @irinaalkhovik98
 - 👀 I’m interested in Python, DevOps
 - 🌱 I’m currently learning Linux, Bash, and other service
-- 💞️ I’m looking to collaborate on Selectel
 - 📫 How to reach me m.kliri44@gmail.com
 
 <!---
